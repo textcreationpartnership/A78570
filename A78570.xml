@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Chaos.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78570</idno>
+            <idno type="STC">Wing C1937</idno>
+            <idno type="STC">Thomason E988_22</idno>
+            <idno type="STC">ESTC R208122</idno>
+            <idno type="EEBO-CITATION">99867112</idno>
+            <idno type="PROQUEST">99867112</idno>
+            <idno type="VID">168638</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78570)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168638)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E988[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Chaos.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Livewel Chapman, at the Crown in Popes-head-Alley,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "1659 June. 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Toleration --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168638:1" rendition="simple:additions"/>
+            <head>CHAOS.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>Nte mare &amp; terras—</hi> as the wanton Poet ſings, <hi>rudis erat molis quem dixere Chaos.</hi> It might be well wiſhed the ſober heads of theſe times could uſe the Poets words, <hi>erat ante:</hi> but as if Fortunes Wheel were turned upſide down, we may ſeem to be in the firſt conditi<g ref="char:EOLhyphen"/>on of things again, <hi>ubi mollia pugnant dur is.</hi> The Tail commands the Head, and all things are out of courſe; inſomuch as a <hi>Solon</hi> was never any where more need<g ref="char:EOLhyphen"/>ful. And the childrens burthens are grown ſo great, as if a <hi>Moſes</hi> appear not in time, it may be feared de<g ref="char:EOLhyphen"/>liverance will come too late. After <hi>Nebuchadnezzar</hi> knew that <hi>the most high bears rule,</hi> his Kingdom was reſtored. <hi>England</hi> no doubt wiſhes their Rulers had learned the ſame leſſon; and if they have, that the practice thereof may appear in publike: for though the Sword ſeems ſatiated with bloud, yet the E<g ref="char:EOLhyphen"/>lements threaten Vengeance if we return not: And though for Rulers offences the People ſuffer, yet they ſeldom eſcape Scot-free. It were to be wiſhed, exam<g ref="char:EOLhyphen"/>ples hereof were not ſo obvious in this Generation as they have been. Oh that <hi>Englands</hi> Rulers may ſee the work of the day! that Pride, Tyranny and Oppreſ<g ref="char:EOLhyphen"/>ſion may receive their reward: which, whilſt men accuſed of greateſt crimes ſit as Judges in their own cauſe, cannot be expected; nor whilſt any of thoſe who have voices in making Laws, ſhall be admitted the Sanctuary of a Priſon, to ſhelter themſelves from
+<pb n="2" facs="tcp:168638:2"/>the penalty thereof, can be hoped for. O <hi>horrenda &amp; impudica rabies!</hi> And that the People follow their Guides, is ſadly witneſſed by this days Verdict of a <hi>Devonſhire</hi>-Jury at the Upper Bench Bar, who (in de<g ref="char:EOLhyphen"/>ſpight of the Judges honeſt, honourable and wary Advertiſements) betrayed the Innocent to the Fury of her over-potent Adverſary, and ſet the guilty free; whereby they have uſed their utmoſt endeavours to proſtitute their maids, daughters and wives to the luſtful abuſion of the wicked at their wills.</p>
+            <p>It were happie if every day ſpoke not the ſame or worſe language, ſo much reſembling that of <hi>Babel</hi> or <hi>Sodom,</hi> as nothing ever appeared ſo like the Poets old Chaos as this preſent Age. Theſe few particulars, amongſt the innumerary numbers of <hi>Babylons</hi> brats daily diſperſed to the abuſion of all that hath any re<g ref="char:EOLhyphen"/>ſemblance of Goodneſs, compels that hand which never intended any ſuch thing, to command the Preſs, which now hath liberty beyond meaſure, to mea<g ref="char:EOLhyphen"/>ſure even Immenſity it ſelf; not purpoſing to accuſe any for robbing the Publike, to erect a Private inte<g ref="char:EOLhyphen"/>reſt; nor for pretended relieving the Publike, to ſtrain the ſtrings of their Inventions, to contrive new Impoſitions; nor yet for pretended Frugality to the Commonwealth, to deſtroy thouſands of the Com<g ref="char:EOLhyphen"/>mons, by denying juſtice, thereby cheriſhing all vil<g ref="char:EOLhyphen"/>lany and wickedneſs in the higheſt meaſure.</p>
+            <p>But when the Publike Faith of a Nation turns Bankrupt, who ſhall be accuſed? the Borrowers, or the Lenders? Sure if the Borrowers had not promi<g ref="char:EOLhyphen"/>ſed fair, the Lenders had not been. O unhappie hand, that ever drew Sword to countenance ſuch things, as the Paper bluſhes to bear the news of!
+<pb n="3" facs="tcp:168638:2"/>Yet O happie age, that affordeſt Hands to effect what Heads cannot do! Yea, O happie people, who live in ſuch an Age where God commands the meaneſt of things to be means of Deliverance! Surely he hath Mercies yet in ſtore for ſuch a people, if embraced: if not, let <hi>Moſes</hi> and the Prophets declare the iſſue; or rather, the Saviour of the worlds weeping over <hi>Jeruſalem,</hi> admoniſh, to beware of what that rebelli<g ref="char:EOLhyphen"/>ous City ſhortly after ſuffered.</p>
+            <p>And if any ſhall ſay theſe Lines fell from <hi>Rabſha<g ref="char:EOLhyphen"/>keh's</hi> Pen; let them conſider, their origine, their birth and growth, is from <hi>Chaos.</hi> But the Poets word <hi>ante</hi> gives hopes, that as his <hi>ante</hi> was the fore-runner of better compoſures, where was <hi>mare, coelum &amp; ter<g ref="char:EOLhyphen"/>ras;</hi> ſo this preſent time elapſing, this Generation may hope to ſee <hi>mare &amp; terras</hi> in their proper places, and <hi>coelum ſupervolutans, illuminans, &amp; recreans.</hi> For never had Nation a Magiſtracie better ſchooled and diſcipled, nor did ever Magiſtrate govern a people ſo generally capable of the beſt Rule of Government, as this is. But if, with <hi>Miles</hi> the Frier's man in the Fable, we flout and abuſe this coy Miſtreſs TIME, and improve not the advantage and opportunity thereof, ſhe will be gone, and then repentance may come too late.</p>
+            <p>Now that Chaos-like, out of which Order was produced, matter may be adminiſtred for the fra<g ref="char:EOLhyphen"/>ming of ſuch a ſtructure of Laws and Regiment, or at leaſt ſome Inſtruments brought to ſearch for ſome Foundation, or to diſcover ſome Quarries or other materials fit for ſo great a Fabrick, which is not to be expected to be done all at once, and all in one day, by any one private hand, nor yet from all the heads
+<pb n="4" facs="tcp:168638:3"/>of our Governours at preſent, whoſe cares for ſpee<g ref="char:EOLhyphen"/>dy remedy to prevent imminent dangers; takes away much of their time from theſe other contrivances. And though no one piece of what ſhall here be of<g ref="char:EOLhyphen"/>fered, ſhall be found fit ſtuff to build withal, yet may other more dextrous Artiſts be hereby invited to furniſh the proper materials for the very work it ſelf.</p>
+            <p>
+               <hi>Chaos</hi> never travelled; or if ſhe did, it was when ſhe was in the womb of Nothing. So ſhe brings no cuſtomes from other Countries, nor Laws from o<g ref="char:EOLhyphen"/>ther Lands: onely as the birth is produced in its proper dimenſions, not reſpecting any other feature or proportion in the whole frame of Nature, who leſt any part or member thereof ſhould ſteal ano<g ref="char:EOLhyphen"/>thers right, hath framed all creatures, Animate, and Inanimate (if ſuch a conjecture may be imagined) in a convenient diſparity each to other: yet ſo, as there is ſtill an harmonious parity in the whole. So <hi>Chaos</hi> neither doats upon her neighbour-cuſtoms more then is convenable, nor is ſhe affected with ſtrange novelties fetcht from far Countries, ſo ar<g ref="char:EOLhyphen"/>dently as to ſurfeit thereon: ſhe is neither bewitched with the beauty and riches of the Grand Seignior's <hi>Seraglio,</hi> neither is ſhe enamoured with the Canto<g ref="char:EOLhyphen"/>nian formalities. All the Mitres in the Conclave of <hi>Rome,</hi> cannot invite her to fetch her Laws from <hi>Italy;</hi> nor all the Decencie and Liberty of <hi>Amſterdam</hi> fur<g ref="char:EOLhyphen"/>niſh her with more then ſome miſs-ſhapen pieces, which ſhe purpoſes to poliſh for her own purpoſe. She purpoſes not to pry too deep into the Spaniards Sun-burnt Inquiſition, nor yet roave too far in the frigid Zone of the Tartarian Territories; but out
+<pb n="5" facs="tcp:168638:3"/>of her own ſtore, <hi>Chaos</hi>-like, is her furniture; onely the deck and dreſs may ſeem to be ſometimes bor<g ref="char:EOLhyphen"/>rowed from one, ſometimes from another. Yet un<g ref="char:EOLhyphen"/>leſs ſhe be new built, ſo as to ſuit with the temper of her own climate, ſhe will be unſerviceable, and her fruit abortive.</p>
+            <p>
+               <hi>Chaos</hi> conſidering that in ſix days a Creation of excellent beauty and proportion, ſuiting to the ma<g ref="char:EOLhyphen"/>gnitude thereof, in number, weight and meaſure, was by an all-powerful hand produced, has pro<g ref="char:EOLhyphen"/>pounded to her ſelf fix days work for perfecting of her intended Creation. (<hi>Creation</hi> ſhe calls it, becauſe ſhe finding all the Rafters of her old Building rot<g ref="char:EOLhyphen"/>ten, and the Mortices and Tenons full of rubbiſh, all the Pins either broken or pull'd from their places, all the Beams battered and bruiſed, and indeed the whole Fabrick ready to fall about her ears.) As Light was the firſt thing in the Creation, and ſo properly called the work of the firſt day; ſo for her firſt days work ſhe propounds for the Balancing of Intereſts, and reducing each piece to its proper place, (the <hi>praecognita</hi> being firſt allowed of, <hi>viz.</hi> a time prefixed (as already in great wiſdom the preſent Rulers have done) for the Parliaments fitting; with<g ref="char:EOLhyphen"/>in which time if they be idle, their work will be left undone; and what will be their Reward, if ſo?) So as if any one piece ſeem to be wreſted out of its place, the weight and frame of the whole prevents it.</p>
+            <p>It is proponed, that one Common Intereſt be ere<g ref="char:EOLhyphen"/>cted, whereof each member ſhall ſhare, as well in re<g ref="char:EOLhyphen"/>ceiving protection from, as giving contribution to; and to be ſo incorporated, as no variant opinion, ei<g ref="char:EOLhyphen"/>ther
+<pb n="6" facs="tcp:168638:4"/>in Religion or Policie, ſhall be able to weaken the whole: (but if any ſhall endeavour it, it ſhall by weakning and deſtroying it ſelf; adde ſtill to the whole.</p>
+            <p>And as a light to the enſuing Intendment, <hi>Chaos</hi> propounds, That in this Iſland of <hi>Great Britain</hi> (heretofore conſiſting of many, but of late days of three diſtinct Principalities; heretofore divided in<g ref="char:EOLhyphen"/>to many, but now either all ſpeaking, or all under<g ref="char:EOLhyphen"/>ſtanding one and the ſame language, and alſo incor<g ref="char:EOLhyphen"/>porated into one Commonwealth) be one Law, and one Regiſtery, diſperſed into the ſeveral parts there<g ref="char:EOLhyphen"/>of; and ſo diſpoſed, as each part ſhall be ſubſervi<g ref="char:EOLhyphen"/>ent to other, and each communicative to other, and all to the whole; not purpoſing to deprive the Head of his due reſpect, neither the Body, or any member thereof, of their proper dues, according to each ones particular propriety and proportion, without deſtru<g ref="char:EOLhyphen"/>ction or diminution of any Right, Franchiſe or Pri<g ref="char:EOLhyphen"/>viledge due to any Lord of Mannor, or other Propri<g ref="char:EOLhyphen"/>etor whatſoever, or detraction from the juſt freedom of any Engliſh-man: wherein is propoſed to the Magiſtrate, Honour &amp; reſpect; to the Lawyer, Profit; to the People, enjoyment of <hi>Magna Charta;</hi> and to the Republike, the enjoyment of all. The diſtribution whereof, <hi>Chaos</hi> propounds to be, National, Provin<g ref="char:EOLhyphen"/>cial, Sub-Provincial, and Parochial; each Regiſtry to have his Court and Officers. To which Courts and Regiſteries all matters of Civil concernment ſhall be reduced: and this to be erected within eight months, ſo that the preſent Magiſtracie may have the honour to lay the foundation thereof, and to reap the benefit alſo, when others ſhall come in their
+<pb n="7" facs="tcp:168638:4"/>places, to eaſe their ſhoulders of the burthen of Go<g ref="char:EOLhyphen"/>vernment, which none or few in the Nation are or can be enabled to go thorow ſo dexterouſly as they now are, who are at preſent entruſted therewith. In the interval of which time, <hi>Chaos</hi> propounds (as that light may appear to be the fruit of this firſt days work) that all Suits in Law or Equity may be determined within ſix Months; and to that end, that ſufficient time be alotted to the Judges Itinerant in the ſeveral Circuits, for hearing and determining of all matters which ſhall be brought before them: and that within one month after the Circuit, ano<g ref="char:EOLhyphen"/>ther Term be kept in <hi>Westminſter,</hi> where all further Iſſues may be joyned; and another Circuit a month after that, for finiſhing the whole buſineſs as to mat<g ref="char:EOLhyphen"/>ter of Law.</p>
+            <p>And for all Actions depending in Equity, let Judges in Chancery ſit <hi>de die in diem,</hi> and cauſe ſpee<g ref="char:EOLhyphen"/>dy examinations of all things needful to be made, and bring all to hearing in <hi>Michaelmas</hi> Term next, or ſhortly after, upon pain of great Fines to be impoſed upon the Judge or Judges who ſhall be remiſs herein, and abſolute loſs of the Cauſe to the Clyent, whether Plaintiff or Defendant, that ſhall endeavour further delayes; and let Judges enow be appointed for that purpoſe at the Commonwealths charge. The like courſe to be uſed by all Committees; and that no new Suits be in the Interim commenced: That pub<g ref="char:EOLhyphen"/>like notice hereof be given to the whole Nation, at or before the next Aſſizes; and this to ſuffice for the firſt dayes work: onely to ſhew what's intended for further light to the whole Creation, which is to re<g ref="char:EOLhyphen"/>ceive Life and Perfection in the following days, with<g ref="char:EOLhyphen"/>in
+<pb n="8" facs="tcp:168638:5"/>in the time allotted, is promiſed Rules for the five dayes work to come, <hi>viz.</hi> For the</p>
+            <p n="2">2. Rules for Regiſters, which ſhall but be one to all propoſers, but diſtributed into its ſeveral parts.</p>
+            <p n="3">3. For the Law and Juriſdiction of each ſeve<g ref="char:EOLhyphen"/>ral Regiſterial Court.</p>
+            <p n="4">4. For future Elections and Tranſactions of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p n="5">5. For Aſſeſments, Cuſtoms, Exciſe, and Provi<g ref="char:EOLhyphen"/>ſion for the Poor. And</p>
+            <p n="6">6. For Trade and Husbandry; under which the Militia ſhall be comprehended, as alſo Proviſion made for the Miniſtry and Schools of Learning, as the perfection of the work: upon each of which, if this be approved of by Authority, and a <hi>Fiat</hi> put to the firſt dayes work, already propoſed, a ſeveral Diſ<g ref="char:EOLhyphen"/>courſe is intended for each ſucceding dayes work, in their proper times, by</p>
+            <closer>
+               <signed>CHAOS.</signed>
+               <dateline>
+                  <date>June 21. 1659.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: Printed for <hi>Livewel Chapman,</hi> at the Crown in <hi>Popes-head</hi>-Alley. 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
